@@ -21,6 +21,6 @@ use the command "gcc game.c gametime.c clear_screen.c -lm" to compile it.
 
 你可以在源文件"game.c"中修改宏"MAX"的值来修改战争中的AI数量。
 
-You can change the macro "MAX" which is the number of the AI in the battle in the file "game.c".
+You could change the value of the macro "MAX" which is the number of the AI in the battle in the file "game.c".
 
 
